@@ -1,1 +1,3 @@
 # Code-Editor-V1
+
+WARNING: Do not create anything here! The secure version will come soon...
