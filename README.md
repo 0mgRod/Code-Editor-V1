@@ -1,6 +1,6 @@
 # Code-Editor-V1
 
-WARNING: Do not create anything here! The secure version will come soon...
+WARNING: Do not put in any sensitive information! The secure version will come soon... Also, the code editor is on Replit right now. One more notice: I don't think GitHub pages will work. This repo is here for you guys to download it.
 
 ## Credits
 
